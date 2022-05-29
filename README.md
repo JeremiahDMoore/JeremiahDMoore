@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a Habit Tracker Mobile App**
 
-- 🌱 I’m currently learning **Solidity, AWS, MongoDB**
+- 🌱 I’m currently learning **Solidity, AWS**
 
 - 👯 I’m looking to collaborate on **NFT and other blockchain projects**
 
