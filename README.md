@@ -1,8 +1,8 @@
 ### About Me
+<body>
 
-
-<h1 align="center">Hi 👋, I'm Jeremiah</h1>
-<h3 align="center">A Mobile App and Web Developer from USA</h3>
+<h1 align="center">Jeremiah Moore</h1>
+<h3 align="center">Mobile and Web Developer 🇺🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahdmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahdmoore" /> </p>
 
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremiahdmoore&show_icons=true&locale=en" alt="jeremiahdmoore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahdmoore&" alt="jeremiahdmoore" /></p> -->
+<body>
