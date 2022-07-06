@@ -2,7 +2,7 @@
 <body>
 
 <h1 align="center">Jeremiah Moore</h1>
-<h3 align="center">Mobile and Web Developer 🇺🇸</h3>
+<h3 align="center">Mobile App and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahdmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahdmoore" /> </p>
 
