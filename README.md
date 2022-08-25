@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
 
-- 🔭 I’m currently working on **a Habit Tracker Mobile App**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Solidity, AWS**
 
-- 👯 I’m looking to collaborate on **NFT and other blockchain projects**
+- 👯 I’m looking to collaborate on **Metaverse games using NFTs, Open Source or Grassroots projects for Environmental conservation, Human Rights**
 
 - 💬 Ask me about **Creating and deploying Android Apps to Google Play**
 
-- ⚡ Fun fact **Professional UAV Drone Pilot**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
