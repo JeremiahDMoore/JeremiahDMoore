@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Habit Tracker Mobile App**
 
-- 🌱 I’m currently learning **Solidity, AWS**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Metaverse games using NFTs, Open Source or Grassroots projects for Environmental conservation, Human Rights**
+- 👯 I’m looking to collaborate on **Group Projects, Pair Programming, Web and Mobile App Development**
 
 - 💬 Ask me about **Creating and deploying Android Apps to Google Play**
 
