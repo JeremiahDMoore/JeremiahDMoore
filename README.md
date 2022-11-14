@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/jeremiah-moore-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah-moore-developer" height="30" width="40" /></a>
 <a href="https://instagram.com/acesupmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acesupmedia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/acesupmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="acesupmedia" height="30" width="40" /></a>
+ <a href="https://codepen.io/whalestacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="acesupmedia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
