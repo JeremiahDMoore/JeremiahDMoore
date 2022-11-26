@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Habit Tracker Mobile App**
 
-- 🌱 I’m currently learning **Solidity and smart contracts**
+- 🌱 I’m currently learning **Solidity and writing smart contracts**
 
 - 👯 I’m looking to collaborate on **AI, NFT, Mobile games, open source projects**
 
