@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahdmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahdmoore" /> </p>
 
-<p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
+ -->
 - 🔭 I’m currently working on **Habit Tracker Mobile App**
 
 - 🌱 I’m currently learning **Solidity and writing smart contracts**
