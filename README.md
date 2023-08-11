@@ -8,11 +8,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
  -->
-- ♠ I’m currently working on **Poker Notes Mobile App** and **Flashcards Mobile App**
+- ♠ I’m currently working on **Sitka AI Chatbot Mobile App** and **Review Master**
 
-- 🌱 I’m currently learning **Solidity and writing smart contracts**
+- 🌱 I’m currently learning **Typescript, iOS development cycle**
 
-- 👯 I’m looking to collaborate on **AI, NFT, Mobile games, open source projects**
+- 👯 I’m looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
 
 - 💬 Ask me about **Creating and deploying Android Apps to Google Play**
 
