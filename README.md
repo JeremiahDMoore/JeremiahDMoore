@@ -10,7 +10,7 @@
  -->
 - 📲 I’m currently working on **Sitka AI Chatbot Mobile App** and **Review Master**
 
-- 🌱 I’m currently learning **Typescript, iOS development cycle**
+- 🌱 I’m currently learning **Prompt Engineering, Python**
 
 - 👯 I’m looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
 
