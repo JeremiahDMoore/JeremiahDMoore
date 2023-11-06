@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
  -->
-- 📲 I’m currently working on **Chatbot Apps** and **Being a better person**
+- 📲 I’m currently working on **AI Models** and **Manufacturing and 3D Applications**
 
 - 🌱 I’m currently learning **LLM, Python**
 
