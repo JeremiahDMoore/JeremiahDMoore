@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
  -->
-- 📲 I’m currently working on **AI Models**
+- 📲 I’m currently working on **TasteBuddy mobile** and perfecting my prompts for the GPT Store
 
-- 🌱 I’m currently learning **LLM, Python**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin, RAG and prompt engineering**
 
 - 👯 I’m looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
 
