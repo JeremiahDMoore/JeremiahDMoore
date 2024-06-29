@@ -8,11 +8,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
  -->
-- 📲 I’m currently working on **TasteBuddy mobile** and perfecting my prompts for the GPT Store
+- 📲 Mobile Developer for Android and iOS
 
-- 🌱 I’m currently learning **Jetpack Compose, Kotlin, RAG and prompt engineering**
+- 🌱 CNC Programming and 3D Printing
 
-- 👯 I’m looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
+- 👯 Looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
 
 - 💬 Ask me about **Creating and deploying Android Apps to Google Play**
 
