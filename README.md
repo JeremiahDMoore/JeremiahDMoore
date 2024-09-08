@@ -10,8 +10,6 @@
  -->
 📲 Mobile Developer for Android and iOS
 
-🦾 CNC Programming and 3D Printing
-
 🤝 Looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
 
 ⚡ Fun fact **Commercial Drone Pilot**
