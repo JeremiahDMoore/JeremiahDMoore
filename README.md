@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
  -->
-📲 Mobile Developer for Android and iOS
+📲 **Mobile Developer for Android and iOS** - Over 10 depoloyed paid apps in the Google Play and App Stores
 
-🤝 Looking to collaborate on **AI powered projects, mobile apps/games, open source projects**
+🤝 **Looking to Collaborate** with Entrepreneurs, Startups, Small Businesses to solve problems using apps and AI
 
 ⚡ Fun fact **Commercial Drone Pilot**
 
