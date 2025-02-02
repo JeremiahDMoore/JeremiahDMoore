@@ -10,6 +10,8 @@
  -->
 📲 **Mobile Developer for Android and iOS** - Independently Developed Apps in the Google Play Store and App Store
 
+🤖 **CNC Machinist and 3D Printer** - Solving problems with machines, drones and robotics
+
 🤝 **Looking to Collaborate** with Entrepreneurs, Startups, Small Businesses to solve problems using apps and AI
 
 ⚡ Fun fact **Commercial Drone Pilot**
