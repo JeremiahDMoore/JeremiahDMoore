@@ -1,34 +1,75 @@
+<div align="center">
+  <img src="https://jeremiahdmoore.github.io/portfolio/images/pier1x1.jpg" width="150" height="150" style="border-radius: 50%" alt="Profile Picture" />
+  <h1>Jeremiah Moore</h1>
+  <h3>Mobile & Web Developer | AI Engineer</h3>
+  <p>
+    <a href="https://linkedin.com/in/jeremiah-moore-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
+    <a href="https://jeremiahdmoore.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Google-Chrome&logoColor=white" height="25" alt="Portfolio" /></a>
+    <a href="https://twitter.com/acesupmedia" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" height="25" alt="Twitter" /></a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jeremiahdmoore&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
+
+---
+
 ### About Me
-<body>
 
-<h1 align="center">Jeremiah Moore</h1>
-<h3 align="center">Mobile App and Web Developer</h3>
+I am a passionate **Mobile & Web Developer** and **AI Engineer** with a strong foundation in building innovative applications for Android, iOS, and the Web. My background includes a unique blend of experiences as a CNC Machinist, Commercial Drone Pilot, and Entrepreneur, which drives my problem-solving approach. I love leveraging AI (OpenAI API, Prompt Engineering) to create smarter, more intuitive user experiences.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahdmoore&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahdmoore" /> </p>
+- 📲 **Mobile Development**: Expert in React Native, Android (Java/Kotlin), and iOS (Swift).
+- 🤖 **AI & Machine Learning**: Integrating AI into apps (e.g., TasteBuddy, Sitka AI).
+- ✈️ **Other Skills**: Commercial Drone Pilot, 3D Printing, CNC Machining.
+- 🤝 **Collaboration**: Open to working with startups and entrepreneurs on challenging problems.
 
-<!-- <p align="left"> <a href="https://twitter.com/acesupmedia" target="blank"><img src="https://img.shields.io/twitter/follow/acesupmedia?logo=twitter&style=for-the-badge" alt="acesupmedia" /></a> </p>
- -->
-📲 **Mobile Developer for Android and iOS** - Independently Developed Apps in the Google Play Store and App Store
+---
 
-🤖 **CNC Machinist and 3D Printer** - Solving problems with machines, drones and robotics
+### 🛠 Tech Stack
 
-🤝 **Looking to Collaborate** with Entrepreneurs, Startups, Small Businesses to solve problems using apps and AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,kotlin,swift,java,firebase,androidstudio,git,github,vscode,figma,postman,nextjs,mongodb" alt="Tech Stack" />
+</div>
 
-⚡ Fun fact **Commercial Drone Pilot**
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 Top Projects
 
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiahdmoore&show_icons=true&locale=en&layout=compact" alt="jeremiahdmoore" /></p>
+#### [TasteBuddy - AI Meal Planner](https://jeremiahdmoore.github.io/tastebuddy)
+**AI-Powered Foodie App** | *React Native, Node.js, OpenAI API*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremiahdmoore&show_icons=true&locale=en" alt="jeremiahdmoore" /></p>
+An innovative meal planning app that uses AI to generate recipes from food photos, create weekly meal plans, and offer culinary advice via a chatbot. Tailors recipes to user profiles.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahdmoore&" alt="jeremiahdmoore" /></p>  -->
-<p align="left">
-<!-- <a href="https://twitter.com/acesupmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acesupmedia" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/jeremiah-moore-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiah-moore-developer" height="30" width="40" /></a>
-<a href="https://instagram.com/acesupmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acesupmedia" height="30" width="40" /></a>
-<a href="https://medium.com/@acesuplasvegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="acesupmedia" height="30" width="40" /></a>
- <a href="https://codepen.io/whalestacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="acesupmedia" height="30" width="40" /></a>
-</p>
+#### [Sitka AI - Relationship Chatbot](https://github.com/JeremiahDMoore/sitka-ios)
+**Relationship Expert Chatbot** | *React Native, Node.js, Prompt Engineering, GPT-3.5*
 
-<body>
+Fine-tuned chatbot focused on relationship advice. Demonstrates prompt engineering and OpenAI API integration. Available on iOS and Android.
+
+#### [Poker Hand History Keyboard](https://github.com/JeremiahDMoore/poker-hand-history-keyboard)
+**Mobile Utility App** | *Java, Swift, Android Studio, Xcode*
+
+A custom keyboard for poker players to quickly record hand histories. Top-rated paid app with over 1k downloads on Google Play.
+
+#### [Flashcards Study App](https://github.com/JeremiahDMoore/flashcards)
+**Study Tool** | *React Native, Expo, Firebase*
+
+A free alternative to paid flashcard apps, built for the 100 Devs community. Features CRUD operations for custom flashcards.
+
+#### [MTT Basics](https://github.com/JeremiahDMoore/mtt-basics)
+**Poker Strategy Tool** | *Android Studio, Java*
+
+Calculates shove/fold ranges for No Limit Texas Hold 'Em tournaments. 500+ downloads.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiahdmoore&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahdmoore&layout=compact&theme=radical" width="400" alt="Top Languages" />
+</div>
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
