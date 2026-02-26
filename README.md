@@ -72,8 +72,8 @@ Calculates shove/fold ranges for No Limit Texas Hold 'Em tournaments. 500+ downl
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JeremiahDMoore/JeremiahDMoore/pull/1) in [JeremiahDMoore/JeremiahDMoore](https://github.com/JeremiahDMoore/JeremiahDMoore)
-2. 💪 Opened PR [#1](https://github.com/JeremiahDMoore/JeremiahDMoore/pull/1) in [JeremiahDMoore/JeremiahDMoore](https://github.com/JeremiahDMoore/JeremiahDMoore)
-3. 🎉 Merged PR [#2](https://github.com/JeremiahDMoore/erpnext/pull/2) in [JeremiahDMoore/erpnext](https://github.com/JeremiahDMoore/erpnext)
-4. 💪 Opened PR [#2](https://github.com/JeremiahDMoore/erpnext/pull/2) in [JeremiahDMoore/erpnext](https://github.com/JeremiahDMoore/erpnext)
+1. 🎉 Merged PR [#1](https://github.com/JeremiahDMoore/certificates/pull/1) in [JeremiahDMoore/certificates](https://github.com/JeremiahDMoore/certificates)
+2. 💪 Opened PR [#1](https://github.com/JeremiahDMoore/certificates/pull/1) in [JeremiahDMoore/certificates](https://github.com/JeremiahDMoore/certificates)
+3. 🎉 Merged PR [#1](https://github.com/JeremiahDMoore/JeremiahDMoore/pull/1) in [JeremiahDMoore/JeremiahDMoore](https://github.com/JeremiahDMoore/JeremiahDMoore)
+4. 💪 Opened PR [#1](https://github.com/JeremiahDMoore/JeremiahDMoore/pull/1) in [JeremiahDMoore/JeremiahDMoore](https://github.com/JeremiahDMoore/JeremiahDMoore)
 <!--END_SECTION:activity-->
